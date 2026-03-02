@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/m_cari"
+        android:icon="@drawable/search_white_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/find"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item android:id="@+id/m_fragment"
+        app:showAsAction="never"
+        android:title="@string/fragment"/>
+
+    <item android:id="@+id/m_recyclerView"
+        app:showAsAction="never"
+        android:title="@string/recyclerview"/>
+</menu>

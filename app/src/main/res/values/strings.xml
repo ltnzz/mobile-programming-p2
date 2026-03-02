@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Bone</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="address">Alamat</string>
+    <string name="study_program">Program Study</string>
+    <string name="domicile">Domisili</string>
+    <string name="in_town">Dalam Kota</string>
+    <string name="out_of_town">Luar Kota</string>
+    <string name="hobby">Hobi</string>
+    <string name="technology">Teknologi</string>
+    <string name="culinary">Kuliner</string>
+    <string name="detail">Detail</string>
+    <string name="toast" translatable="false">Toast</string>
+    <string name="dialog" translatable="false">Dialog</string>
+    <string name="snack_bar" translatable="false">Snack Bar</string>
+    <string name="notification">Notifikasi</string>
+    <string name="how_are_you">Piye Kabare?</string>
+
+    <string-array name="study">
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Ekonomi</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Sistem Informasi</item>
+        <item>Sains Data</item>
+        <item>Hukum</item>
+    </string-array>
+
+    <string name="close">Tutup</string>
+    <string name="registration_accepted">Pendaftaran diterima</string>
+    <string name="registration_info">Data yang tertera dibawah ini telah melakukan verifikasi</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="warn">Perhatian</string>
+    <string name="hello">Halo, ini aplikasi buatanku</string>
+    <string name="cancel">Batal</string>
+    <string name="neutral">Netral</string>
+    <string name="complete_warn">Nama dan Alamat belum diisi</string>
+    <string name="find">Temukan\n</string>
+    <string name="fragment">Fragement</string>
+    <string name="recyclerview">Recyclerview</string>
+</resources>
