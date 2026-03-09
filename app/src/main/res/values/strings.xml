@@ -39,4 +39,5 @@
     <string name="find">Temukan\n</string>
     <string name="fragment">Fragement</string>
     <string name="recyclerview">Recyclerview</string>
+    <string name="permission">Izin notifikasi belum diaktifkan. Aktifkan di pengaturan.</string>
 </resources>
